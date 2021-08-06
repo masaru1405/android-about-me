@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Kaio Masaru Nakazono</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at nunc sit amet odio
+        gravida elementum.\n\nQuisque ut tristique erat, in fermentum purus. Suspendisse feugiat,
+        lectus molestie imperdiet gravida, risus purus dictum massa, sit amet rutrum ligula
+        magna sed justo. Suspendisse sem elit, auctor nec ligula eget, iaculis condimentum augue.
+        Nunc ut nunc nulla. \n\nAliquam malesuada erat nunc, nec congue lacus luctus sed.
+        Vestibulum ut nibh non ligula varius elementum. Mauris mollis tristique sodales.
+        \n\n
+        Praesent tristique elit magna. Vestibulum vel hendrerit orci. Phasellus quis aliquet arcu.
+        Donec gravida massa at nulla blandit, vitae maximus erat commodo. Donec ut leo consequat
+        nisi vulputate pulvinar vel lacinia erat. Nulla facilisi. Praesent ac dui eu justo malesuada
+        rutrum vitae ut ante. Proin scelerisque vitae nibh et mollis. Vivamus facilisis eleifend
+        convallis. Morbi id lacus non nisl rhoncus pretium non sit amet ante.
+        Nunc tincidunt semper dui, vel mollis tellus faucibus nec. Praesent ut metus id neque
+        scelerisque malesuada. \n\n
+        Maecenas maximus est ac odio malesuada mattis. Vivamus porta rutrum nibh vitae rhoncus.
+    </string>
+</resources>
